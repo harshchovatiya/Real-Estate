@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    scroll-behavior: smooth;
+}
+#myBtn{
+    position: fixed; 
+bottom: 1.25rem; 
+font-size: 1.125rem;
+line-height: 1.75rem; 
+cursor: pointer; 
+color: white;
+border-color: none;
+right: 30px;
+background: #0860fd;
+border-radius: 50%;
+}
+
+#myBtn:hover {
+    background: #0807fd;
+    }
+   
+
+.fas{
+    font-size: 1.5vw;
+    padding: 1vw;
+    
+}
